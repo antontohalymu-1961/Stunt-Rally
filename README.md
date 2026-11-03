@@ -221,4 +221,4 @@ Stunt Rally is offered as a full free version with all features and updates incl
 Ready to rev up your engines? **Download Stunt Rally now and join the race!**
 
 ---
-**Last updated:** 2026-11-03 10:35:40 UTC
+**Last updated:** 2026-11-03 18:16:47 UTC
